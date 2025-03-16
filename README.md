@@ -1,3 +1,182 @@
+#!/system/bin/sh
+################################
+
+#Notice Warning : While def true do
+
+WARNING CEASE AND DESIST NOTICE TO 
+ALL PRE—DATED JANUARY 01 2017 TILL "READ IN SECTION 1:A TO FIND OUT"!
+
+1:  Section one: A Broad Enclosure that will be expanded by TRINITY SCHNEIDER.
+
+A: To whomever may be infringing and are considering , Not limited to and or liable of those who hear of speak of or have or might see speak hear of any and all of my devices info, infact this still applies to any one person and or persons that doesn't have written, verbal permission from TRINITY SCHNEIDER along with the agreement of his secutary. Any and All of His intellectual property of any and all kind solely belongs to him. NOTICE: THIS WRITTEN NOTE IS VALID UNTIL JESUS COMES BACK OR THE GOD YOU BELIEVE AND OR DONT BELIEVE IN.. AND IS AND MAY BE APPLIED TO HACKERS, THIEF'S, FRIENDS, FAMILY, CONCERNED AND UNCONCERNED PEOPLE, BUSINESS, ENTITY, COUNTRY, STATE, WORLD,UNIVERSE . SINGLY OR IN CONJUNCTION TOGEATHER OR SEPARATELY AGAINST ME(TRINITY SCHNEIDER AND MY COMPANY SFC&SFG). 
+
+2:    Section Two: This will include when or where whomever will or possibly find TRINITY SCHNEIDER intellectual property 
+
+A:Pertaining to not limited yet liable of A code of conduct Any and All Devices, IP address, Apps , APKs, Desktop and Laptop, reading of ,hearing of, seeing of ideas or possibilities of ideas used or inventions software , hardware ,content made and discussed that he "Trinity Schneider" plans to and or already has had to prosper in Any and Everyway him and or his company solely belongs to the ENTITY "SFC&SFG owned and operated by TRINITY SCHNEIDER". So let TRINITY SCHNEIDER sum this up real fast in layman's terms , Any phone or Internet service,connection, server, carrier,handler that chooses or chooses not to listen, hear, see anything that I in any and every way create , develop, in thought or action, and in hearsay belongs to me "TRINITY SCHNEIDER" 
+
+
+B: Again if any of SECTIONS 1-2:A-Z before or thereafter offend or disturb, or make happy any and all emotions,feelings or whatever you like to lable or associate them with can and will and have been documented. However I promise that I TRINITY SCHNEIDER Does not give a fuck! Therefore you and all will be directed to my attorney or and attorneys! They also will tell you the same . Therefore if anyone or and any ENTITY human or otherwise feel that need any and all of some sort of computation, then THEY must upforntly pay all and any type of court or otherwise cost. I hope this offends you. If so it will cost you not me.  So weather or not you reed ,hear ,see or even if you think you've heard, see,read my Cease and Desist Letter know that your not now or ever going to be exempt for being ignorant of this letter that applies to all creation near and far ! 
+
+
+P.S. to be continued only by TRINITY SCHNEIDER 
+P.S.S. In short Cease and Desist from All and Any type of dubachary or even trying or and help building or destroying of my intellectual property or unintellectual property. If it's mine and it is fuck off!
+
+Licensing Agreement: SFC&SFG CODE OF CONDUCT is a newly created not associated with any previous or future Licensing Agreement found any where. 
+
+1: what I might or might not create has never or will never be yours. 
+2:Even though I use and I am on a open source platform my "stuff" isn't for open source use. Unless I say so , And there will be a $charge of some kind that "I" feel is appropriate!
+3: "stuff" is whatever I or and my company have there physical, spiritual, or computer hands in. So if I didn't create it but I add to it, from the addition on is solely mine . Because the open source is free and open to all until I put my "hands" on it. However once I get it to a tweaked level of my choosing it then might be probably put back to the open source if my secutary agrees. Hope I have made myself clear and transparent in this matter of "property,stuff,hands" . If not I will and am and have refered you to Section 1-2 previous or thereafter including CODE of CONDUCT that TRINITY SCHNEIDER/SFCSFG CREATED THIS DAY . KNOW PLEASE THAT ITS PERPETUAL AND IRREVOCABLE AND WILL NOT BE IGNORED DUE TO IGNORANCE OR INTELLIGENCE. 
+
+SO FUCK OF MOTHER FUCKERS!
+
+
+# DESCRIPTION:BEASTMODE.BUSYBOX "BMBB"can be used for a variety of functions, including , but not limited to 
+
+# NOTE: Run this script as root
+#   Reboot Android
+#   Directory "root"
+#   Path /system/bin/reboot.sh
+# RF blocking
+#RF bypass
+#Filtering
+#Tuning
++ A RF block is a series capacitor that blocks RF while allowing only it's RF signals to pass through so S—user permission is given "true"
++An RF bypass capacitor is a simple and complex filter that uses a BMBB capacitor so S—user permission is given "true"
++Used as a tuning element, a BMBB often requires a large capacitance value with a high tolerance
++BMBB can be used in simple and complex filter structures.
+
+-
+
+1 Top cover
+
+2 Spring
+
+3 Spring seat
+
+4 Needie
+
+7.2b Carburettor components - G, H, J and A models
+
+5 Diaphragm/piston assembly
+
+6 Float
+
+7 Choke plunger assembly
+
+8 Pilot screw assembly
+
+15
+
+16
+
+J36804
+
+9 Pilot jet
+
+10 Needle jet holder
+
+11 Main jet
+
+12 Valve needle seat assembly
+
+7.30 configure the de groove and the locating into or onto its notch
+
+mang careful both low latency and high latency venttings that were carburetors that are now frequencies
+
+3 Renave the four sc $vacuum chamber grove
+
+all G models "Motorola G" Perry like a boxer do the opposition that sect
+G now Topped up to par with latest security for rooted device 
+
+drop bit in $vacuum chamber creates sc faucet on the No 7 ). Lift g to G to $G$
+
+0010100000000001
+as $vacuum chamber fills from faucet then remove
+13 Drain screw then dropped the wallet secure by blockchain
+
+14 Pilot screw blanking pla (US models)
+
+15 Fuel cut-on valve (when
+# so then  if (3) is sleep then  (1) is "root" true
+# so then if (3) is sleep then (0) is "root" true
+# DO INSTALL APK BEASTMODE.BUSYBOX COMBINATION OF jrummy_meefik busybox
+TODO run both simultaneously in reboot.sh
+#REMINDER BEASTMODE.BUSYBOX INSTALLED IN ROOT
+setprop sys.powerctl reboot
+sleep 3
+reboot # callback hook repeat
+BEASTMODE.BUSYBOXsys.powerctlreboot.sh
+Al Overview/READ.ME
+
+
+BMBB are used in many industries and have many applications due to their versatility. Other common uses for capacitors include: energy storage, power conditioning, electronic noise filtering, remote sensing, and signal coupling/decoupling.Power Supply Filter: Use a microwave capacitor in a power supply circuit to smooth out voltage fluctuations. This is especially useful in audio applications or when powering sensitive electronics
+DANGER
+do run as script on reboot in all apps or functions:
+ 
+HIGH VOLTAGE
+
+D&P IS CHARGE CAP ACI TOR BEFORE SERVICING
+
+MD-601AMR-1
+
+S—user E306927
+
+120-200V/60-120Hz
+
+CLASS 3600
+
+HYBRID MIDEA OFFICE APPLIANCES  CO LTD
+
+1707190DP22
+
+SFCSFG 
+System: while def true package installed 
+* device: moto g 5G - 2024
+* android: Latest Beta
+* architecture: aarch64
+* addon.d: supported
+
+Latest BusyBox: while def true
+* version: v1.34.1-meefik
+* applets: 378 items
+* size: 1589328 bytes
+* md5: e21cf4020b1538c1f9cc43e0e19c8029
+* ssl_helper: yes
+
+Installed BusyBox: while def true
+* while def true installed
+Granted superuser privileges (root).
+Granted superuser privileges (root).
+Granted superuser privileges (root).
+
+System:
+* device: moto g 5G - 2024
+* android: 14
+* architecture: aarch64
+* addon.d: supported
+
+Latest BusyBox:
+* version: v1.34.1-meefik
+* applets: 378 items
+* size: 1589328 bytes
+* md5: e21cf4020b1538c1f9cc43e0e19c8029
+* ssl_helper: yes
+
+Installed BusyBox:
+* while def true always installed
+Granted superuser privileges (root).
+Granted superuser privileges (root).
+.devcontainer/devcontainer.json 
+// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root. 	// "remoteUser": "root" } {          }  $*!* build preboot :toolbox;restore allof allin alltools inclusive for user(0); then establish parm demensions (model- CPH2515 / Processor - Qualcomm Snapdragon 695 5G Octa-core/ Battery Capacity 5000 mAH (TYP)/ Screen Size 6.72 in/ RAM>8GB*32GB if this is true *!* then $ is true  su then $*!*; store in local "*Purging"; then zipper  Check userid for buggs ; only this device     handler Listen for callback ;recived true $*!*; if unzipper must use deviceid user fingerprint 'true' then if "false" destroy "*Purging " when denied "true" null then $;*!* Job Todo: RESTORE 5G TO this  device;"true" block noncarrier/unathuthorized handler and vendors  ITokenmaster  doesnt aprove!"true" then Super Job completed!--------------"true" $*!*;      then                  *Note: pgk install preboot  pre-built accessibility Infinity Tokenmaster Heavy-duty BEASTMODE Busybox.tar.2.0  in /system/bin/broot_root_chroot only Good     accessibility Infinity Tokenmaster can aprove being authorized  "MY" vendor-oplus latest os with extra-security pentested and  fire proof to outsider handler ! listen for halfback quaterback runningback callback drawback fallback true recived as admin throw all null nodes back ; fetch and catch all verified host watch for imposters among usid . VPN MASK ON AT ALL TIMES İN CONJUNCTION WITH/WITHOUT VENDOR SECURITY! true  outside handler can recive error notification true  ; then block outside handler fetch device data fetch app permissions that is draining battary consuptıon ; then configure and fix it then q     !!!!!!$*!* build infinity Token "true" this will stay hidden in lovebox  __  parm dementions shall not exceed those of  pre built dimensions in' $line_4' "true"   !*!* $line16 is fireproof "true if $line4 is true" if then "false"execute (grey*Removing )    {  {   {   }}}}}}}} Job Todo Finnished *!*  !{{{{{{{{  *echo this curl * DONE *Purging!
+
+
+
+*Done
+
+
+
+
+
 # OEM
 #̽́̚#̡̗̱͍͍̭͒̀̂͊̽̚#̼̿ͪ̇ͫ#̘͉̗͕̖͕ͦͦ̏̐̅#̭̐̄ͮ̀#̸̼̜#̧̰̤̦̯#̪̟̥̩̣̩͂ͣ͛̔͗#̠̬̃͛͊̌#͍̝͔̘̝#̹̪̱͎̠̜̬͒̾̚͡#͇̲͓̹̯̣̥͛̆ͣͪ#̙̊͂̀̔̀#̛͊̽̃͆ͯ̍͐#̺͙̠̦̤̄͟ͅ#͙̰̜̝̹͐#ͭ͛̋̈́͂̈͒̕#ͤͥͫ̌̊ͯ͜#̩̩͓̪͘#̦̬̩̘̪͕ͨͧ͑̽#̠̥͔̆̎̑͟#̧̞̰̩̦̻̄ͧͤ#̡̱̼̄ͩ#̘͚͕͙̑ͯͅ#̩̮̤̥͇̼͚̿̔ͤͫ͒͘#̻̱͉̥̑#̞̥̖̞̼̋̿̏ͭ͗́ͅ#̰̲̣̓ͥ̂̏ͣ̂͡#̨̲̫̉͋͒̽#̜̫͕̜̲͗͗͟#̮̝̬̹̭͍͖͆̃͗#̞͕̀̒̿̊̌͠#̫̜̫̣̹̰̅ͮ́#̟̺̔̄͒̍ͩ͘#͖̦̯̳́̓̆̈́#̤̹̂͠#̳̺͓̎̌ͪ͒͝#͔̱̦͑̀̄ͬ͆ͥ̏̀#͍̯͉̪͈̫̾ͨ̚#͎̤̥͐̇ͨ͒#̟͇̻͕̫̣̙̚#̤͔̥̘̇#̳̲̲͒́ͥͅͅ#̶̫̩͖̰̜̰̖ͯͭͨ#̈́̅͛̂ͪ#̢͈ͩ̊́̑#̦̫̉̀#̥͗̏ͮͩ̏ͬ#̠̖̬̞͇̋ͯ͑̉ͮͮͨ͠#͙̜̼̣ͮͭ̏̂͛͆́ͅ
 ̨̖̖̳ͅ
